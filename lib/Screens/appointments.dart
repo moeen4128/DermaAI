@@ -267,6 +267,7 @@ class _AppointmentsState extends State<Appointments> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child: TextFormField(
+                  cursorColor: Colors.black,
                   controller: _searchController,
                   onChanged: filterAppointments,
                   decoration: InputDecoration(

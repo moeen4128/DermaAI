@@ -307,7 +307,7 @@ class _AppointmentFormState extends State<AppointmentForm> {
                   ],
                 ),
                 TextFormField(
-                  controller: conditionController,
+                  controller: lookingForController,
                   keyboardType: TextInputType.emailAddress,
                   decoration: InputDecoration(
                     hintText: 'Please select',

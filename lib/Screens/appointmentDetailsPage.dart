@@ -26,7 +26,7 @@ class _AppointmentDetailsPageState extends State<AppointmentDetailsPage> {
           "Doctor details",
           style: TextStyle(fontSize: 35, color: Colors.white),
         ),
-        leading: Icon(Icons.menu, size: 40, color: Colors.white),
+        // leading: Icon(Icons.menu, size: 40, color: Colors.white),
         toolbarHeight: 80,
       ),
       body: SingleChildScrollView(
