@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469631010267",
+    "project_id": "healwizeapp",
+    "storage_bucket": "healwizeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469631010267:android:5b4cb159d0c10bc1c753fe",
+        "android_client_info": {
+          "package_name": "healwize.example.heal_wiz_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Z1dFVsU4NefE96XAIwrX0LJS9MHa4ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
